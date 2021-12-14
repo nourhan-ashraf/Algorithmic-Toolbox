@@ -1,7 +1,7 @@
 # Algorithmic Toolbox
 **This online course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming.**
 
-**In this Repo I provide my solutions for the assignments of (algorithmic toolbox) course and (Learning Algorithms Through Programming And Puzzle Solving) book offered by University of California San Diego &amp; HSE University at coursera platform.**
+**In this Repo I will provide my solutions for the assignments of (algorithmic toolbox) course and (Learning Algorithms Through Programming And Puzzle Solving) book offered by University of California San Diego &amp; HSE University at coursera platform.**
 **also I will explain some of the approaches that I used to solve these problems.**
 
 
