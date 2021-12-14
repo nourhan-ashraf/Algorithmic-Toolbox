@@ -21,7 +21,7 @@ ll fib_mod(ll n){   //to calculate sum(fib(n))%mod
         for(int i=2;i<=newNumber+2;i++){    //sum(fib(n)) == fib(n+2)-1 
             first = sec;
             sec = sum;
-            sum = (first%10 + sec%10)%10;
+            sum = (first + sec);
             
         }
         return sec-1;
@@ -31,7 +31,7 @@ ll fib_mod(ll n){   //to calculate sum(fib(n))%mod
 int main()
 {
     INOT
-    ll n;cin>>n;
-    cout<<fib_mod(n)-fib()<<endl;
+    ll m,n;cin>>m>>n;
+    cout<<abs(fib_mod(n)-fib_mod(m-1))%10<<endl;
     
 }
