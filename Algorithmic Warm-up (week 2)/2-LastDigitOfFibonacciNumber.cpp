@@ -6,6 +6,8 @@ const int N = 1e6+2;
 
 ll lastFib(ll n){
     ll first=0, sec=1, sum;
+    if(n==0) 
+        return 0;
     for(int i=2;i<=n;i++){
         sum = (first + sec)%10;
         first = sec;
