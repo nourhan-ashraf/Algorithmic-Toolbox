@@ -11,7 +11,7 @@ For M = 2, the period is 011 and has length 3 while for M = 3 the sequence repea
 
 **Example:**
 
-if we want to get the fib(545)%5
+if we want to get fib(545)%5
 
     first, we obtain the pisano period which is 20 for module 5
     
