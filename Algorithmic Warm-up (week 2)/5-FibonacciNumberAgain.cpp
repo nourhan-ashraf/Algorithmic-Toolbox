@@ -22,8 +22,6 @@ ll pisano(ll mod){  //to get pisano period
     return ans;
 }
 
-
-
 ll fib_mod(ll n , ll mod){   //to calculate fib(n)%mod
     ll PP = pisano(mod);
     ll newNumber = n%PP;
@@ -31,6 +29,10 @@ ll fib_mod(ll n , ll mod){   //to calculate fib(n)%mod
     ll sec = 1;
     ll sum = 1;
     ll ans = 0;
+    if(n==0)
+        return 0;
+    if(n==1)
+        return 1;
     for(int i=2;i<=newNumber;i++){
         first = sec;
         sec = sum;
