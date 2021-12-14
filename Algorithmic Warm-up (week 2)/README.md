@@ -14,7 +14,7 @@ For M = 2, the period is 011 and has length 3 while for M = 3 the sequence repea
 
 if we want to get fib(545)%5
 
-    first, we obtain the pisano period which is 20 for module 5
+    first, we obtain the pisano period which is 20 for modulo 5
     
     second, we calculate 545 % 20 = 5
     
