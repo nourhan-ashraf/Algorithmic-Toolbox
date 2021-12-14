@@ -4,11 +4,11 @@ in this Repo i provide my solutions for the assignments of (algorithmic toolbox)
 
 
 # Week1 
-##Learning Objectives
-  -Practice implementing algorithms
-  -Practice testing and stress testing programs
-  -Compare fast and slow programs
-  -Practice solving programming challenges
+**Learning Objectives
+  *Practice implementing algorithms.
+  *Practice testing and stress testing programs.
+  *Compare fast and slow programs.
+  *Practice solving programming challenges.
 
 # Week2
 ##Learning Objectives
