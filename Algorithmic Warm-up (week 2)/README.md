@@ -1,6 +1,7 @@
 # Pisano period 
 
--used in problem number 5 (fibonnaci number again)-
+-used in problem number 5 (fibonnaci number again)-.
+
 **Definition:** It is the period with which the sequence of Fibonacci numbers taken modulo n repeats.
 
 It is always starts with 01.
