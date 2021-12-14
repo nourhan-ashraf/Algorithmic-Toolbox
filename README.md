@@ -23,7 +23,7 @@
 	
   *-Practice implementing efficient solutions.*
 	
-  *-Practice solving programming challenge.s*
+  *-Practice solving programming challenges.*
 	
   *-Implement programs that are several orders of magnitude faster than straightforward programs.*
 
