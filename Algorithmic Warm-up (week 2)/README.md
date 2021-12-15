@@ -21,7 +21,7 @@ if we want to get fib(545)%5
     finally, we calculate 5%5  = 0
     
     
-5%5 is the same answer of fib(545)%5, the only differece is that we are avoiding to use recursive approach to keep calculating N Fibonacci numbers with a time complexity of O(2N). Even an iterative or a Dynamic Programming approach with an algorithm looping for N iterations will not be time-efficient.
+5%5 is the same answer of fib(545)%5, the only differece is that we are avoiding to use recursive approach to keep calculating N Fibonacci numbers with a time complexity of O(2^N). Even an iterative or a Dynamic Programming approach with an algorithm looping for N iterations will not be time-efficient.
 
 So the most efficient approach for this problem is Pisano Period.
 
