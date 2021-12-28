@@ -1,0 +1,37 @@
+Majority Element Problem
+-------------------------
+Check whether a given sequence of numbers contains an element that appears more than half of the times.
+
+Input: A sequence of n integers.
+Output: 1, if there is an element that is repeated more than n=2 times, and 0 otherwise.
+
+
+Input format. The first line contains an integer n, the next one contains a sequence of n non-negative integers a(1),...,a(n).
+
+Output format. Output 1 if the sequence contains an element that appears more than n=2 times, and 0 otherwise.
+
+Constraints. 1 <= n <= 1e5; 0 <= ai <= 1e9 for all 1 <= i <= n.
+
+
+Sample 1:
+---------
+Input:
+5
+2 3 9 2 2
+
+Output:
+1
+
+2 is the majority element.
+
+
+Sample 2:
+---------
+Input:
+4
+1 2 3 1
+
+Output:
+0
+
+This sequence does not have a majority element (note that the element 1 is not a majority element).
