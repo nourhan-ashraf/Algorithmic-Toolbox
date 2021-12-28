@@ -1,0 +1,9 @@
+Fibonacci Number Again Problem
+
+Compute the n-th Fibonacci number modulo m.
+Input: Integers 0 <= n <= 1e18 and 2 <= m <= 1e5.
+Output: n-th Fibonacci modulo m.
+
+Input format: Integers n and m.
+Output format: Fn mod m.
+Constraints: 1 <= n <= 1e18, 2 <= m <= 1e5.

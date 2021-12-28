@@ -1,0 +1,11 @@
+Last Digit of the Partial Sum of Fibonacci Numbers Problem
+-----------------------------------------------------------
+
+Compute the last digit of Fm + Fm+1 + ... + Fn.
+
+Input: Integers m and n.
+Output: The last digit of Fm + Fm+1 + ... + Fn.
+
+Input format: Integers m and n.
+Output format: (Fm + Fm+1 + ... + Fn) mod 10.
+Constraints: 0 <= m <= n <= 1e18.

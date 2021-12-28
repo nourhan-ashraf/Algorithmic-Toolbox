@@ -1,0 +1,36 @@
+Maximizing the Value of the Loot Problem (Knapsack Problem)
+---------------------------------------------------
+
+Find the maximal value of items that fit into the backpack.
+
+Input: The capacity of a backpack W as well as the weights (w(1),...,w(n)) and per pound prices (p(1),...,p(n)) of n different compounds.
+Output: The maximum total price of items that fit into the backpack of the given capacity: i.e., the maximum value of p1 . u1 + ... + pn . un such that u1 + ... + un <= W and 0 <= ui <= wi for all i.
+
+
+Input format. The first line of the input contains the number n of compounds and the capacity W of a backpack. The next n lines define the prices and weights of the compounds. The i-th line contains the price per pound pi and the weight wi of the i-th compound.
+
+Output format. Output the maximum price of compounds that fit into the backpack.
+
+Constraints. 1 <= n <= 1e3, 0 <= W <= 2 . 1e6, 0 <= pi <= 2 . 1e6, 0 < wi <= 2 . 1e6
+for all 1 <= i <= n. All the numbers are integers.
+
+
+Sample 1.
+---------
+Input:
+3 50
+60 20
+100 50
+120 30
+
+Output:
+180.0000
+
+
+Sample 2.
+---------
+Input:
+1 10
+500 30
+Output:
+166.6667

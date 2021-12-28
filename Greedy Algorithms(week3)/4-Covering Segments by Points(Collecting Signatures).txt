@@ -1,0 +1,16 @@
+Covering Segments by Points Problem
+------------------------------------
+
+Find the minimum number of points needed to cover all given segments on a line.
+
+Input: A sequence of n segments [a1,b1], ... ,[an,bn] on a line.
+
+Output: A set of points of minimum size such that each segment [ai ,bi] contains a point, i.e., there exists a point x such that ai <= x <= bi.
+
+
+Input format. The first line of the input contains the number n of segments.
+Each of the following n lines contains two integers ai and bi (separated by a space) defining the coordinates of endpoints of the i-th segment.
+
+Output format. The minimum number m of points on the first line and the integer coordinates of m points (separated by spaces) on the second line. You can output the points in any order. If there are many such sets of points, you can output any set.
+
+Constraints. 1 <= n <= 100; 0 <= ai <= bi <= 1e9 for all i.
