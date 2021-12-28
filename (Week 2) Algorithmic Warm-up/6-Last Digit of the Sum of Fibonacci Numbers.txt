@@ -1,0 +1,11 @@
+Last Digit of the Sum of Fibonacci Numbers Problem
+---------------------------------------------------
+
+Compute the last digit of F0 + F1 + ... + Fn.
+
+Input: Integer 0 <= n <= 1018.
+Output: The last digit of F0 + F1 + ... + Fn.
+
+Input format: Integer n.
+Output format: (F0 + F1 + ... + Fn) mod 10.
+Constraints: 0 <= n <= 1018.

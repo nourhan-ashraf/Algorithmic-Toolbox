@@ -1,0 +1,9 @@
+Greatest Common Divisor
+Compute the greatest common divisor of two positive integers.
+
+Input: Two positive integers.
+Output: Their greatest common divisor.
+
+Input format: Integers a and b (separated by a space).
+Output format: GCD(a,b).
+Constraints. 1 <= a,b <= 2 . 1e9.

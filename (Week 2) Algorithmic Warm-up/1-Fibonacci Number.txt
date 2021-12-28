@@ -1,0 +1,10 @@
+Fibonacci Number Problem
+-------------------------
+Compute the n-th Fibonacci number.
+
+Input: An integer n.
+Output: n-th Fibonacci number.
+
+Input format: An integer n.
+Output format: Fn.
+Constraints: 0 <= n <= 45.

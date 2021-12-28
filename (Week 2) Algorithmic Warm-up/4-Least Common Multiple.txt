@@ -1,0 +1,9 @@
+Least Common Multiple Problem
+Compute the least common multiple of two positive integers.
+
+Input: Two positive integers.
+Output: Their least common multiple.
+
+Input format: Integers a and b (separated by a space).
+Output format: LCM(a;b).
+Constraints: 1 <= a,b <= 2 . 109.

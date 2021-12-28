@@ -1,0 +1,8 @@
+Last Digit of Fibonacci Number
+
+Compute the last digit of the n-th Fibonacci number.
+Input: An integer 0 < n <= 1e5.
+Output: The last digit of the n-th Fibonacci number.
+
+Input format: An integer n.
+Output format: The last digit of Fn.
