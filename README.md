@@ -57,6 +57,21 @@
 
 
 # Week5
+**Learning Objectives**
+
+*-apply dynamic programming technique to implement efficient programs.*
+
+*-compute the edit distance between to files.*
+
+*-practice applying the most popular algorithmic technique: dynamic programming.*
 
 
 # Week6
+**Learning Objectives**
+
+*-continue practicing implementing dynamic programming solutions.*
+
+*-learn more complex applications of dynamic programming.*
+
+*-implement efficient solutions to various problems in combinatorial optimization.*
+
